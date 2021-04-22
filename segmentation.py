@@ -1,6 +1,6 @@
 import numpy as np
 import cellsegmentator
-import pandas a spd
+import pandas as pd
 
 for column in class_counts.keys():
     print(f"The class {column} has {train[column].sum()} samples")
